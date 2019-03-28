@@ -9,11 +9,11 @@ Every image is in the PNG format, and the filenames are in the following format:
 ``
 [image number].png
 ``
-Each image is resized to ``128x128``, but some irregularities may cause issues.
+All images are resized to ``128x128``.
 
 ### Potential Issues
 * The images were not taken at the ``128x128`` resolution, so scaling issues may occur.
-    * For example, some scans did not originally have a 1:1 aspect ratio, so images may contain transparent pixels to fill in the empty space.
+    * Some scans did not originally have a 1:1 aspect ratio, so images may be slightly stretched.
 * Some images are in color, while others are in monochrome.
     * The images were collected from different sources, so the colors may vary.
 
