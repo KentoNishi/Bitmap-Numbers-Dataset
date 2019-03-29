@@ -9,7 +9,7 @@ Every image is a bitmap, and the filenames are in the following format:
 ``
 [image number].bmp
 ``
-All images are resized to ``128x128``.
+All images are resized to ``128x128``. The color depth is always 24 bit.
 
 ### Potential Issues
 * The images were not taken at the ``128x128`` resolution, so scaling issues may occur.
