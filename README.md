@@ -1,6 +1,6 @@
 # Bitmap Numbers Dataset
 
-A dataset of labeled handwritten numbers for machine learning, by Kento Nishi.
+A dataset of labeled handwritten numbers for machine learning.
 
 ## About
 This dataset contains manually labelled images of hand-written digits.
